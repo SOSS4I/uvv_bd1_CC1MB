@@ -28,7 +28,7 @@ CREATE DATABASE uvv
 
 COMMENT on database uvv is 'Banco de Dados lojas uvv';
  
- --CONECTAR NO BANCO DE DADOS UVV COMO caio_silva
+ --CONECTAR NO BANCO DE DADOS UVV COMO joao_vitor_sossai
 
 \c "dbname=uvv user=joao_vitor_sossai password=1987"
 
